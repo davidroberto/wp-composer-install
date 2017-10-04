@@ -9,7 +9,10 @@
     "php": ">=5.4",
     "johnpbloch/wordpress": "*",
     "wpackagist-plugin/advanced-custom-fields": "*",
-    "wpackagist-plugin/timber-library": "*"
+    "wpackagist-plugin/timber-library": "*",
+    "wpackagist-plugin/custom-post-type-ui": "*",
+    "wpackagist-plugin/wordfence": "*",
+    "wpackagist-plugin/wordpress-seo": "*",
   },
   "extra": {
     "wordpress-install-dir": "wp"
